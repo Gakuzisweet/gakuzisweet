@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋, I'm Mohamednur
 
-<!--
-**Gakuzisweet/gakuzisweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Electrical Engineering student at the University of Alberta  
+💡 Working on Project Maverick – a Raspberry Pi–based flight controller  
+⚙️ Passionate about embedded systems, real-time control, and hardware/software integration  
+🎤 Public speaker – 5x "Speaker of the Week" at UAlberta
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Project Maverick](https://github.com/gakuzisweet/project-maverick) — IMU-based flight controller with PID and PWM control
+- [Other projects coming soon…]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Languages
+Python • C • Raspberry Pi • I2C • KiCad
+## 📫 Reach Me
+- [LinkedIn](https://www.linkedin.com/in/mohamednur-zeinu)
+- Email: mnur.zeinu@gmail.com
