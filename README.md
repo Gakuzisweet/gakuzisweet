@@ -7,7 +7,7 @@
 🎤 I enjoy public speaking and well written storylines. 
 
 ## 🚀 Projects
-- [Project Maverick](https://github.com/gakuzisweet/project-maverick) — IMU-based flight controller with PID and PWM control
+- [Project Maverick](https://github.com/gakuzisweet/maverick) — IMU-based flight controller with PID and PWM control
 - [Other projects coming soon…]
 
 ## 🛠️ Tools & Languages
