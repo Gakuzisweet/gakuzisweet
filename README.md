@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Mohamednur
 
-🔧 Electrical Engineering student at the University of Alberta  
-💡 Working on Project Maverick – a Raspberry Pi–based flight controller 
+🔧 Electrical Engineering student at the University of Alberta.  
+💡 Working on Project Maverick – a Raspberry Pi–based flight controller.                                                                                                            
 🎤 I enjoy public speaking and well written storylines. 
 
 ## 🚀 Projects
